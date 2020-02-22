@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "email": "vasyaytka@gmail.com",
+      "password": "$2a$10$.9TrQwv0EdsaPYXyWs/RY.aQn4MgVUbHM2y5ojrRlr0z4g3bAT/vi",
+      "firstName": "Vasya",
+      "lastName": "Ytkin",
+      "phone": "+380508482628",
+      "dateOfBirth": "1998-05-28",
+      "id": 1
+    },
+    {
+      "email": "sergadyatel@gmail.com",
+      "password": "$2a$10$tKVfBsylhq0oG9gfHCddHOyFeqlZB13TMHLlKbpcF68lnxg3mKGYu",
+      "firstName": "Sergey",
+      "lastName": "Dyatlov",
+      "phone": "+380947896321",
+      "dateOfBirth": "1997-08-25",
+      "id": 2
+    },
+    {
+      "email": "andbol@gmail.com",
+      "password": "$2a$10$Z5xpsWprpUQKxP/Q4XGOd.PLgvZ/jrPgktwObeDGXVWeSvnx4D0Wy",
+      "firstName": "Andrey",
+      "lastName": "Boluh",
+      "phone": "+380995846874",
+      "dateOfBirth": "2000-01-15",
+      "id": 3
+    },
+    {
+      "email": "kukuruza@gmail.com",
+      "password": "$2a$10$u.o0ngZV1WsQNSlXPeszVeIbVsyu/sZQ8hat1g7O8ecisLptUgQde",
+      "firstName": "Oleg",
+      "lastName": "Kukuruznik",
+      "phone": "+380574358087",
+      "dateOfBirth": "1989-12-30",
+      "id": 4
+    },
+    {
+      "email": "hud@gmail.com",
+      "password": "$2a$10$R47gLyPaNrYZnvKQJq79pe9Vmoj4tVzfaecRwtR7BStgjiSqmiymW",
+      "firstName": "Vladimir",
+      "lastName": "Hudoy",
+      "phone": "+380698745632",
+      "dateOfBirth": "1999-09-02",
+      "id": 5
+    },
+    {
+      "email": "don@gmail.com",
+      "password": "$2a$10$RDKjD84JtMy0ZgmfYSEnYOj9MKVQkuzyUmPdMYlEdzgzrokJ4jggO",
+      "firstName": "Dima",
+      "lastName": "Donchenko",
+      "phone": "+380698745215",
+      "dateOfBirth": "2005-05-15",
+      "id": 7
+    }
+  ],
+  "coachs": []
+}
